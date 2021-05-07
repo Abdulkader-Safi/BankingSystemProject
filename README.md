@@ -13,7 +13,9 @@ so if you close the project and open it again every thing will be saved
 
 have fun
 
-* By : Abdulkader Safi
-* github : https://github.com/Abdulkader-Safi
-* instegram : https://www.instagram.com/abdulkader.safi/
-* twitter : https://twitter.com/AbdulkaderSafi
+### Follow Me Abdulkader Safi
+> github : https://github.com/Abdulkader-Safi
+
+> instegram : https://www.instagram.com/abdulkader.safi/
+
+> twitter : https://twitter.com/AbdulkaderSafi
